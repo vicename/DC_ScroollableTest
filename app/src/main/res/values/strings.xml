@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DC_ScrollableTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fill_gap_dc">FillGapDCActivity</string>
+</resources>
